@@ -1,3 +1,8 @@
+using FlowerShop.Repository.Common;
+using FlowerShop.Repository;
+using FlowerShop.Service.Common;
+using FlowerShop.Service;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -7,7 +12,20 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+
+
+string connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+
+
+builder.Services.AddScoped<IOrderRepository>(provider => new OrderRepository(connectionString));
+builder.Services.AddScoped<IUserRepository>(provider => new UserRepository(connectionString));
+
+
+builder.Services.AddScoped<IOrderService, OrderService>();
+builder.Services.AddScoped<IUserService, UserService>();
+
 var app = builder.Build();
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

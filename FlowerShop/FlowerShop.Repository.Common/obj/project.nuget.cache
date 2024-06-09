@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rd0BZ6l/LJU=",
+  "dgSpecHash": "gKp2mprVkAU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dora_\\Desktop\\Mono-bootcamp-multilayer\\FlowerShop\\FlowerShop.Repository.Common\\FlowerShop.Repository.Common.csproj",
+  "projectFilePath": "C:\\Users\\Dora_\\Desktop\\Mono-DI\\FlowerShop\\FlowerShop.Repository.Common\\FlowerShop.Repository.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

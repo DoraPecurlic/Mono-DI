@@ -1,14 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dora_\\Desktop\\Mono-bootcamp-multilayer\\FlowerShop\\",
+  "WorkspaceRootPath": "C:\\Users\\Dora_\\Desktop\\Mono-DI\\FlowerShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B74EA2EF-6D68-4CB9-ACCA-E3ADC7E30729}|FlowerShop.Repository.Common\\FlowerShop.Repository.Common.csproj|c:\\users\\dora_\\desktop\\mono-bootcamp-multilayer\\flowershop\\flowershop.repository.common\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B5F5DB8D-C269-42F7-B967-7A6C916F29B1}|FlowerShop.WebAPI\\FlowerShop.WebAPI.csproj|c:\\users\\dora_\\desktop\\mono-di\\flowershop\\flowershop.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F5DB8D-C269-42F7-B967-7A6C916F29B1}|FlowerShop.WebAPI\\FlowerShop.WebAPI.csproj|solutionrelative:flowershop.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F5DB8D-C269-42F7-B967-7A6C916F29B1}|FlowerShop.WebAPI\\FlowerShop.WebAPI.csproj|c:\\users\\dora_\\desktop\\mono-di\\flowershop\\flowershop.webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F5DB8D-C269-42F7-B967-7A6C916F29B1}|FlowerShop.WebAPI\\FlowerShop.WebAPI.csproj|solutionrelative:flowershop.webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A224DEBC-6955-435B-876B-2D8D9A4E1922}|FlowerShop.Repository\\FlowerShop.Repository.csproj|c:\\users\\dora_\\desktop\\mono-di\\flowershop\\flowershop.repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A224DEBC-6955-435B-876B-2D8D9A4E1922}|FlowerShop.Repository\\FlowerShop.Repository.csproj|solutionrelative:flowershop.repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D02D75C-0562-4627-9E8D-CC3FC8BA3BD5}|FlowerShop.Service\\FlowerShop.Service.csproj|c:\\users\\dora_\\desktop\\mono-di\\flowershop\\flowershop.service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D02D75C-0562-4627-9E8D-CC3FC8BA3BD5}|FlowerShop.Service\\FlowerShop.Service.csproj|solutionrelative:flowershop.service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BDC2C9-C204-4B1F-A559-6B4454C5D71C}|FlowerShop.Models\\FlowerShop.Models.csproj|c:\\users\\dora_\\desktop\\mono-di\\flowershop\\flowershop.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BDC2C9-C204-4B1F-A559-6B4454C5D71C}|FlowerShop.Models\\FlowerShop.Models.csproj|solutionrelative:flowershop.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74EA2EF-6D68-4CB9-ACCA-E3ADC7E30729}|FlowerShop.Repository.Common\\FlowerShop.Repository.Common.csproj|c:\\users\\dora_\\desktop\\mono-di\\flowershop\\flowershop.repository.common\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B74EA2EF-6D68-4CB9-ACCA-E3ADC7E30729}|FlowerShop.Repository.Common\\FlowerShop.Repository.Common.csproj|solutionrelative:flowershop.repository.common\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B74EA2EF-6D68-4CB9-ACCA-E3ADC7E30729}|FlowerShop.Repository.Common\\FlowerShop.Repository.Common.csproj|c:\\users\\dora_\\desktop\\mono-bootcamp-multilayer\\flowershop\\flowershop.repository.common\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B74EA2EF-6D68-4CB9-ACCA-E3ADC7E30729}|FlowerShop.Repository.Common\\FlowerShop.Repository.Common.csproj|solutionrelative:flowershop.repository.common\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDC42E1C-4F51-470B-8F5F-6BC6149BA542}|FlowerShop.Service.Common\\FlowerShop.Service.Common.csproj|c:\\users\\dora_\\desktop\\mono-di\\flowershop\\flowershop.service.common\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDC42E1C-4F51-470B-8F5F-6BC6149BA542}|FlowerShop.Service.Common\\FlowerShop.Service.Common.csproj|solutionrelative:flowershop.service.common\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F5DB8D-C269-42F7-B967-7A6C916F29B1}|FlowerShop.WebAPI\\FlowerShop.WebAPI.csproj|c:\\users\\dora_\\desktop\\mono-di\\flowershop\\flowershop.webapi\\controllers\\ordertypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F5DB8D-C269-42F7-B967-7A6C916F29B1}|FlowerShop.WebAPI\\FlowerShop.WebAPI.csproj|solutionrelative:flowershop.webapi\\controllers\\ordertypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +42,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Dora_\\Desktop\\Mono-DI\\FlowerShop\\FlowerShop.Models\\User.cs",
+              "RelativeDocumentMoniker": "FlowerShop.Models\\User.cs",
+              "ToolTip": "C:\\Users\\Dora_\\Desktop\\Mono-DI\\FlowerShop\\FlowerShop.Models\\User.cs",
+              "RelativeToolTip": "FlowerShop.Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T22:20:14.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dora_\\Desktop\\Mono-DI\\FlowerShop\\FlowerShop.Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "FlowerShop.Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Dora_\\Desktop\\Mono-DI\\FlowerShop\\FlowerShop.Repository\\UserRepository.cs",
+              "RelativeToolTip": "FlowerShop.Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T22:20:00.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dora_\\Desktop\\Mono-DI\\FlowerShop\\FlowerShop.Repository.Common\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "FlowerShop.Repository.Common\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Dora_\\Desktop\\Mono-DI\\FlowerShop\\FlowerShop.Repository.Common\\IUserRepository.cs",
+              "RelativeToolTip": "FlowerShop.Repository.Common\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T22:19:46.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Dora_\\Desktop\\Mono-DI\\FlowerShop\\FlowerShop.Service\\UserService.cs",
+              "RelativeDocumentMoniker": "FlowerShop.Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\Dora_\\Desktop\\Mono-DI\\FlowerShop\\FlowerShop.Service\\UserService.cs",
+              "RelativeToolTip": "FlowerShop.Service\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T22:19:33.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Dora_\\Desktop\\Mono-DI\\FlowerShop\\FlowerShop.Service.Common\\IUserService.cs",
+              "RelativeDocumentMoniker": "FlowerShop.Service.Common\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Dora_\\Desktop\\Mono-DI\\FlowerShop\\FlowerShop.Service.Common\\IUserService.cs",
+              "RelativeToolTip": "FlowerShop.Service.Common\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T22:19:18.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Dora_\\Desktop\\Mono-bootcamp-multilayer\\FlowerShop\\FlowerShop.Repository.Common\\IOrderRepository.cs",
-              "RelativeDocumentMoniker": "FlowerShop.Repository.Common\\IOrderRepository.cs",
-              "ToolTip": "C:\\Users\\Dora_\\Desktop\\Mono-bootcamp-multilayer\\FlowerShop\\FlowerShop.Repository.Common\\IOrderRepository.cs",
-              "RelativeToolTip": "FlowerShop.Repository.Common\\IOrderRepository.cs",
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Dora_\\Desktop\\Mono-DI\\FlowerShop\\FlowerShop.WebAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "FlowerShop.WebAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Dora_\\Desktop\\Mono-DI\\FlowerShop\\FlowerShop.WebAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "FlowerShop.WebAPI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAnwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T22:18:42.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderTypesController.cs",
+              "DocumentMoniker": "C:\\Users\\Dora_\\Desktop\\Mono-DI\\FlowerShop\\FlowerShop.WebAPI\\Controllers\\OrderTypesController.cs",
+              "RelativeDocumentMoniker": "FlowerShop.WebAPI\\Controllers\\OrderTypesController.cs",
+              "ToolTip": "C:\\Users\\Dora_\\Desktop\\Mono-DI\\FlowerShop\\FlowerShop.WebAPI\\Controllers\\OrderTypesController.cs",
+              "RelativeToolTip": "FlowerShop.WebAPI\\Controllers\\OrderTypesController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T18:07:38.138Z"
+              "WhenOpened": "2024-06-09T22:18:41.683Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Dora_\\Desktop\\Mono-bootcamp-multilayer\\FlowerShop\\FlowerShop.Repository.Common\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "FlowerShop.Repository.Common\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\Dora_\\Desktop\\Mono-bootcamp-multilayer\\FlowerShop\\FlowerShop.Repository.Common\\IUserRepository.cs",
-              "RelativeToolTip": "FlowerShop.Repository.Common\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dora_\\Desktop\\Mono-DI\\FlowerShop\\FlowerShop.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FlowerShop.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Dora_\\Desktop\\Mono-DI\\FlowerShop\\FlowerShop.WebAPI\\Program.cs",
+              "RelativeToolTip": "FlowerShop.WebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T17:59:46.802Z",
+              "WhenOpened": "2024-06-06T09:42:14.622Z",
               "EditorCaption": ""
             }
           ]

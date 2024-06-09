@@ -5,7 +5,7 @@ namespace FlowerShop.Repository
 {
     public class OrderRepository : IOrderRepository
     {
-        private readonly string connectionString;
+        private  string connectionString;
         Order order = new Order();
         OrderType orderType = new OrderType();
         public OrderRepository(string connectionString) {

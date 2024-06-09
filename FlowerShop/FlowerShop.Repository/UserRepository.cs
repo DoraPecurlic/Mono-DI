@@ -7,11 +7,12 @@ namespace FlowerShop.Repository
     public class UserRepository : IUserRepository
     {
         private readonly string connectionString;
-        public UserRepository(string connectionString) {
+
+        public UserRepository(string connectionString)
+        {
             this.connectionString = connectionString;
         }
 
-        
 
         public async Task<List<String>> GetUsers()
         {

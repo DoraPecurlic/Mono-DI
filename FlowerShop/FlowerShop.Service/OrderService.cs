@@ -1,17 +1,18 @@
 ﻿using FlowerShop.Models;
-using FlowerShop.Repository;
+
+using FlowerShop.Repository.Common;
 using FlowerShop.Service.Common;
 
 namespace FlowerShop.Service
 {
     public class OrderService: IOrderService
     {
-        private OrderRepository orderRepository;
-        public OrderService(string connectionString) { 
-            this.orderRepository = new OrderRepository(connectionString);
+        private readonly IOrderRepository orderRepository;
+        public OrderService(IOrderRepository orderRepository)
+        {
+            this.orderRepository = orderRepository;
         }
 
-       
 
         public async Task<List<string>> GetUserOrders(int userId)
         {

@@ -1,5 +1,6 @@
 ﻿using FlowerShop.Models;
 using FlowerShop.Service;
+using FlowerShop.Service.Common;
 using Microsoft.AspNetCore.Mvc;
 
 
@@ -11,13 +12,12 @@ namespace FlowerShop.WebAPI.Controllers
     public class UserController : ControllerBase
     {
         private string connectionString = WebApplication.Create().Configuration.GetConnectionString("DefaultConnection");
-        private UserService userService;
+        private readonly IUserService userService;
 
-        public UserController()
+        public UserController(IUserService userService)
         {
-            this.userService = new UserService(connectionString);
+            this.userService = userService;
         }
-
 
         [HttpGet(Name = "GetUsers")]
         public async Task<IActionResult> GetUsers()

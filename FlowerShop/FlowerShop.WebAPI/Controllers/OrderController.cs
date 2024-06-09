@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using FlowerShop.Service;
 using FlowerShop.Models;
+using FlowerShop.Service.Common;
 
 namespace FlowerShop.WebAPI.Controllers
 {
@@ -9,14 +10,13 @@ namespace FlowerShop.WebAPI.Controllers
 
     public class OrderController : ControllerBase
     {
-        private string connectionString = WebApplication.Create().Configuration.GetConnectionString("DefaultConnection");
+       // private string connectionString = WebApplication.Create().Configuration.GetConnectionString("DefaultConnection");
 
-        private OrderService orderService;
+        private readonly IOrderService orderService;
 
-        public OrderController()
+        public OrderController(IOrderService orderService)
         {
-            this.orderService = new OrderService(connectionString);
-
+            this.orderService = orderService;
         }
 
 

@@ -1,18 +1,20 @@
 ﻿using FlowerShop.Models;
 using FlowerShop.Repository;
+using FlowerShop.Repository.Common;
 using FlowerShop.Service.Common;
 
 namespace FlowerShop.Service
 {
     public class UserService : IUserService
     {
-        private UserRepository userRepository;
+        private readonly IUserRepository userRepository;
 
-        public UserService(string connectionString) {
-            this.userRepository = new UserRepository(connectionString);
+        public UserService(IUserRepository userRepository)
+        {
+            this.userRepository = userRepository;
         }
 
-        
+
 
         public async Task<List<string>> GetUsers()
         {
