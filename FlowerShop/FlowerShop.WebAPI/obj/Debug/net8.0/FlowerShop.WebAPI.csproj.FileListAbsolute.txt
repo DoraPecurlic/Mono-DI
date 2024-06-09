@@ -150,3 +150,5 @@ C:\Users\Dora_\Desktop\Mono-DI\FlowerShop\FlowerShop.WebAPI\obj\Debug\net8.0\ref
 C:\Users\Dora_\Desktop\Mono-DI\FlowerShop\FlowerShop.WebAPI\obj\Debug\net8.0\FlowerShop.WebAPI.pdb
 C:\Users\Dora_\Desktop\Mono-DI\FlowerShop\FlowerShop.WebAPI\obj\Debug\net8.0\FlowerShop.WebAPI.genruntimeconfig.cache
 C:\Users\Dora_\Desktop\Mono-DI\FlowerShop\FlowerShop.WebAPI\obj\Debug\net8.0\ref\FlowerShop.WebAPI.dll
+C:\Users\Dora_\Desktop\Mono-DI\FlowerShop\FlowerShop.WebAPI\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Dora_\Desktop\Mono-DI\FlowerShop\FlowerShop.WebAPI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
